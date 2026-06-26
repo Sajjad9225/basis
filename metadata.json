@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrade",
+  "description": "Enterprise-grade Crypto & Forex Trading Simulator with dark luxury Fintech UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

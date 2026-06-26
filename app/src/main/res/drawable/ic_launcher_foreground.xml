@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Rising Bullish Candlestick (Left Green) -->
+    <!-- Wick -->
+    <path
+        android:fillColor="#00D26A"
+        android:pathData="M38,34 h1.5 v36 h-1.5 z" />
+    <!-- Candle Body -->
+    <path
+        android:fillColor="#00D26A"
+        android:pathData="M32,42 h13.5 v18 h-13.5 z" />
+
+    <!-- Rising Bullish Candlestick (Right Orange - Brand Highlight) -->
+    <!-- Wick -->
+    <path
+        android:fillColor="#FF6B00"
+        android:pathData="M69,26 h1.5 v44 h-1.5 z" />
+    <!-- Candle Body -->
+    <path
+        android:fillColor="#FF6B00"
+        android:pathData="M63,33 h13.5 v25 h-13.5 z" />
+
+    <!-- Upward Trend Glow Highlight Overlay Vector Array -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M24,76 L44,56 L55,64 L84,30" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M84,30 L72,30 L84,42 z" />
+</vector>
